@@ -1,2 +1,2 @@
 # datasciencecoursera
-A repository for assignment 1 - Data Science Toolbox
+A repository for my Data Scientist Specialisation assignments
